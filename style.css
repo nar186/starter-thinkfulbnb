@@ -121,7 +121,7 @@ footer p {
 
 /* -------  Media Query ------- */
 
-@media all and (min-width: 600px) {
+@media all and (min-width: 860px) {
   body{
     font-size: unset;
   }
@@ -195,7 +195,7 @@ footer p {
   }
   .img1 {
     width: 24.5%;
-    margin: 0 1% 0 0;
+    margin: 0 100% 0 0;
   }
 
   .item1 {
