@@ -32,7 +32,7 @@ section.alternate-background {
 }
 
 main img {
-  width: 1005%;
+  width: 100%;
 }
 
 /* ---  Groups & Items --- */
@@ -51,6 +51,7 @@ main img {
 
 header {
   background-color: #ff385c;
+
   text-align: center;
 }
 
@@ -124,8 +125,9 @@ footer p {
   body{
     font-size: unset;
   }
+
   header {
-   background-color: #ff385c;
+    background-color: #ff385c;
     text-align: left;
     display: flex;
     justify-content: space-between;
@@ -217,4 +219,5 @@ footer p {
     flex: 1;
     align-self: center;
     justify-content: center;
-  } 
+  }
+}
